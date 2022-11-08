@@ -49,7 +49,3 @@ module.exports = async (user, mailType) => {
     console.log(error);
   }
 };
-// auth: {
-//     user: "shanshangeeth@gmail.com",
-//     pass: "erwsvgtamrplzssl",
-//   },
